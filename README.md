@@ -17,6 +17,7 @@ Em que label pode ser:
 * Tradução ou Texto autoral
 
 Exemplo: [ Tradução ] - Especificidade em CSS - emanuelgsouza
+
 Exemplo2: [ Texto autoral ] - Segredos do CSS - adelmojnr
 
 O autor, pode e deve ser o seu `nickname` no Github
