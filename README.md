@@ -22,4 +22,4 @@ Exemplo2: [ Texto autoral ] - Segredos do CSS - adelmojnr
 
 O autor, pode e deve ser o seu `nickname` no Github
 
-Por fim, dentro da descrição da label, coloque a URL do post no Github
+Por fim, dentro da descrição da label, coloque a URL do post no Medium.
